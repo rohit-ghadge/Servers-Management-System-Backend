@@ -7,5 +7,8 @@ Server Management System Backend
 ## GET Server by IP Address ( Ping By IP Address)
 ![1](https://user-images.githubusercontent.com/57706022/154278177-47e35371-13b7-4cfe-8720-247fedee2add.png)
 
+## Add New Server (save whole server database)
+![1](https://user-images.githubusercontent.com/57706022/154456293-2c9391ef-b3b8-41ba-ac56-a9d585502e41.png)
+
 
 
