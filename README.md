@@ -10,5 +10,9 @@ Server Management System Backend
 ## Add New Server (save whole server database)
 ![1](https://user-images.githubusercontent.com/57706022/154456293-2c9391ef-b3b8-41ba-ac56-a9d585502e41.png)
 
+## Delete Server By Id
+![1](https://user-images.githubusercontent.com/57706022/154457348-bf0dbd65-a4ea-4a86-8e8a-4ee4655955dc.png)
+
+
 
 
